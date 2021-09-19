@@ -16,6 +16,14 @@
   z-index: 30;
   color: black; }
 
+.footer {
+  font-size: 12px;
+  border-radius: 4px;
+  font-family: Catamaran;
+  font-weight: 300;
+  z-index: 30;
+  color: black; }
+
 .h1 {
   font-weight: bold;
   color: black;
